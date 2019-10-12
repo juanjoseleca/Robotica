@@ -68,3 +68,4 @@ We are using a 3D model made in SketchUp, from [https://www.thingiverse.com/thin
 ## Video
 
 You can see all the process in this video (https://youtu.be/Kc8LVhtIHZk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kc8LVhtIHZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
