@@ -31,13 +31,13 @@ Once you have the model in *.stl format you must go through a preprocessing befo
 
 ## Estimated Time
 
-```markdown
+
 - **September 03:**  Project definition 
 - **September 06:**  Analysis of the tools to use.
 - **September 10:**  Tests for the printing of the pieces.
 - **September 11:**  September 13   & Impression of the pieces.
 - **September 16:**  October 04  & Impression of the pieces II.
-```
+
 
 ## Restrictions
 
