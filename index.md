@@ -57,3 +57,6 @@ We are using a 3D model made in SketchUp, from (https://www.thingiverse.com/thin
 5. Keep the printer stable
 6. Keep the room well ventilated
 
+## Video
+
+You can see all the process in this video (https://youtu.be/Kc8LVhtIHZk)
