@@ -1,6 +1,6 @@
 ## Printing a Rover Chassis in a 3D printer
 
- <img src="https://es.overleaf.com/6766288292jckqwvfnsmxj" alt="Smiley face" height="100" width="100"> 
+ <img src="https://es.overleaf.com/6766288292jckqwvfnsmxj" alt="3DPrinter" height="100" width="100"> 
 
 Our project consists of printing a Rover Chassis using a 3D printer. This inform includes:
 
