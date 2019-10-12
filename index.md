@@ -11,6 +11,7 @@ Our project consists of printing a Rover Chassis using a 3D printer. This inform
 ```
 ## Material and equipment
 
+```markdown
 For our projects we are using the following materials:
 1. Printer 3D ZORTRAX M200
 2. Raspberry Pi 3 1GB RAM 32GB SD CARD
@@ -23,25 +24,30 @@ For our projects we are using the following materials:
    6.3 Cutting pliers
    6.4 Spatula
    6.5 Gloves
-   
+```
+
 ## Programming environment
 Once you have the model in *.stl format you must go through a preprocessing before being printed, this is done with the zortrax, Z-suite brand software.
 
 ## Estimated Time
 
+```markdown
 - **September 03:**  Project definition 
 - **September 06:**  Analysis of the tools to use.
 - **September 10:**  Tests for the printing of the pieces.
 - **September 11:**  September 13   & Impression of the pieces.
 - **September 16:**  October 04  & Impression of the pieces II.
+```
 
 ## Restrictions
 
+```markdown
 - The model to be printed must not exceed the size of the platform.
 - While printing process, a person must be present to solve unforeseen events.
 - The printing plate must be clean.
 - The printer system must be updated.
 - The head must be calibrated before each print.
+```
 
 ## Posible Structure
 
@@ -50,12 +56,14 @@ We are using a 3D model made in SketchUp, from (https://www.thingiverse.com/thin
 
 ## Instructions
 
+```markdown
 1. Printing of out Model
 2. Cleaning the platform after each impression
 3. Calibration
 4. Change the filament
 5. Keep the printer stable
 6. Keep the room well ventilated
+```
 
 ## Video
 
