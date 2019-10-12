@@ -10,9 +10,9 @@ Our project consists of printing a Rover Chassis using a 3D printer. This inform
 6. Images of our Chassis with all the pieces printed in plastic.
 ```
 ## Material and equipment
+For our projects we are using the following materials:
 
 ```markdown
-For our projects we are using the following materials:
 1. Printer 3D ZORTRAX M200
 2. Raspberry Pi 3 1GB RAM 32GB SD CARD
 3. SD card to store the models to be printed.
@@ -51,7 +51,7 @@ Once you have the model in *.stl format you must go through a preprocessing befo
 
 ## Posible Structure
 
-We are using a 3D model made in SketchUp, from (https://www.thingiverse.com/thing:2527319)
+We are using a 3D model made in SketchUp, from [https://www.thingiverse.com/thing:2527319]
 
 
 ## Instructions
