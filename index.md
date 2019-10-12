@@ -18,7 +18,7 @@ For our projects we are using the following materials:
 3. SD card to store the models to be printed.
 4. Filament ABS
 5. Laptop    
-6. Model Refinement;
+6. Model Refinement:
    6.1 Cuter
    6.2 Sculptor knife
    6.3 Cutting pliers
