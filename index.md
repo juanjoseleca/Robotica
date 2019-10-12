@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Printing a Rover Chassis in a 3D printer
+Our project consists of printing a Rover Chassis using a 3D printer. This inform includes:
+
+1. The steps of installation.
+2. Usage.
+3. Maintenance for a proper operation.
+4. Recommendations that are necessary when printing.
+5. The solutions for the most common problems.
+6. Images of our Chassis with all the pieces printed in plastic.
+
 
 You can use the [editor on GitHub](https://github.com/juanjoseleca/Robotica/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
